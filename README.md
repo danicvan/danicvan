@@ -99,27 +99,19 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danicvan/danicvan/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🐍 Testimonials
-
-> “Daniel turns legacy code into functional art.” — Former Teammate  
-> “Seriously, I've never seen SAP integrated that fast.” — Anonymous Client  
-> “Our Fluig workflows actually look good now, thanks to Daniel.” — Internal Team
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danicvan/danicvan/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 ---
