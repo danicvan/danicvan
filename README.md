@@ -15,7 +15,7 @@
 
 I'm a senior developer with **6+ years** of experience building custom ERP solutions, automating workflows, and creating full-stack systems that simplify complex operations.
 
-> 🧠 *Transformando ideias em sistemas eficientes. Um deploy por vez.*
+> 🧠 *Turning complexity into clarity. One deploy at a time.*
 
 - 🛠️ Integrated SAP, Protheus & Fluig via REST/SOAP/AdvPL  
 - 💡 Reduced developer effort by **90%** and billing delays by **50%**  
@@ -30,19 +30,29 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
-### ⚔️ My Dev Skills (RPG Mode)
+### ⚔️ Dev Skills (RPG Mode)
 
 🗡️ Full-Stack Blade → React, Next.js, Node  
 🛡️ Back-End Tank → Java, Spring Boot, FastAPI  
-🎯 Sniper de Integrações → SAP, TOTVS, REST/SOAP  
-📦 Inventário: Docker, GitHub Actions, Jenkins  
-🎩 Magia: Automatizações em Fluig, CI/CD, AI
+🎯 Integration Sniper → SAP, TOTVS, REST/SOAP  
+📦 Inventory: Docker, GitHub Actions, Jenkins  
+🎩 Magic: Fluig automation, CI/CD, AI  
 
 > *"Coding is my battlefield. Clean code is my sword."*
 
 ---
 
-### 📌 Featured Repositories
+### 🧭 My Dev Journey
+
+- 👶 2017: First systems in Java & Delphi  
+- 🏢 2018: ERP Integrations with TOTVS/Protheus and SAP  
+- 🚀 2020: Migrated to full-stack with React & Node  
+- 💼 2023: CI/CD and process automation  
+- 🌎 2025: Targeting global, remote-first positions
+
+---
+
+### 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/danicvan/auto-care-landing">
@@ -64,24 +74,32 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
-### 🔬 Projects Table
+### 📊 Projects Table
 
-| Projeto                   | Tecnologias principais                   | Link |
-|--------------------------|------------------------------------------|------|
-| Auto Service Platform    | Next.js, Stripe, MongoDB, React Admin    | [Ver](https://github.com/danicvan/auto-care-landing) |
-| AI Travel Planner        | Next.js, GPT API, Maps API               | [Ver](https://github.com/danicvan/ai-travel-planner) |
-| ERP Proxy & Integrador   | Node.js, Protheus, REST & SOAP           | [Ver](https://github.com/danicvan/proxy-reverse-load-balancer) |
-| Fluig API Template       | Java, Spring Boot, Fluig API             | [Ver](https://github.com/danicvan/fluig-api-template) |
+| Project                | Main Stack                              | Link |
+|------------------------|------------------------------------------|------|
+| Auto Service Platform | Next.js, Stripe, MongoDB, React Admin    | [View](https://github.com/danicvan/auto-care-landing) |
+| AI Travel Planner     | Next.js, GPT API, Google Maps API        | [View](https://github.com/danicvan/ai-travel-planner) |
+| ERP Proxy & Gateway   | Node.js, Protheus, REST & SOAP           | [View](https://github.com/danicvan/proxy-reverse-load-balancer) |
+| Fluig API Template    | Java, Spring Boot, Fluig API             | [View](https://github.com/danicvan/fluig-api-template) |
 
 ---
 
-### ⚙️ Project Workflows
+### ⚙️ CI Workflow
 
 ![CI Status](https://github.com/danicvan/auto-care-landing/actions/workflows/deploy.yml/badge.svg)
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Testimonials
+
+> “Daniel turns legacy code into functional art.” — Former Teammate  
+> “Seriously, I've never seen SAP integrated that fast.” — Anonymous Client  
+> “Our Fluig workflows actually look good now, thanks to Daniel.” — Internal Team
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
@@ -90,38 +108,67 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
-### 🌍 danielcamilo.dev (coming soon?)
+### 🌱 Currently Learning
 
-🔹 Domínio ideal para um portfólio Vercel ou GitHub Pages  
-🔹 Branding forte e único para recrutadores internacionais  
-🔹 Posso te ajudar a configurar isso com SSL e DNS quando quiser
+- 🧠 AI + Automation for ERP
+- 🛡️ Clean architecture & microservices
+- 🌍 Scaling my career globally
 
 ---
 
-### 🔮 Widgets & Activity
+### 🤝 How I Can Help
+
+- 🔗 Seamless integrations between ERP systems (TOTVS, SAP, Fluig)
+- ⚙️ Process automation and workflow orchestration via APIs
+- 🧠 Solution architecture and scalability consultancy
+- 💡 Product development focused on performance
+
+---
+
+### 🛰️ Tech Map
+
+| Domain         | Tools & Tech                              |
+|----------------|--------------------------------------------|
+| ERP Systems    | AdvPL, Protheus, Fluig, SAP, REST/SOAP     |
+| Web Development| React, Next.js, Node.js, MongoDB, FastAPI  |
+| DevOps & Infra | Docker, GitHub Actions, Linux, CI/CD       |
+
+---
+
+### 🔍 Contact Me
+
+- 📧 Email: danicvan@hotmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-camilo-evangelista)  
+- 💻 [GitHub](https://github.com/danicvan)
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danicvan&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 <details>
-  <summary>🎧 Quando não estou programando...</summary>
+  <summary>🎧 When I'm not coding...</summary>
 
-  - 🎮 Curto jogos retrô estilo Doom e RPG tático  
-  - 🎸 Apaixonado por música e toco nas horas vagas  
-  - 🥘 Amante da boa comida — especialmente culinária brasileira  
-  - 🌌 Fascinado por astronomia e o desconhecido  
-  - 🧳 Sonho em trabalhar remoto viajando pelo mundo  
+  - 🎮 Retro gaming & pixel art aesthetics
+  - 🎸 Guitar jam sessions in downtime
+  - 🍲 Foodie — love Brazilian dishes
+  - 🌌 Stargazing & cosmic curiosity
+  - ✈️ Dreaming of coding while traveling
 
 </details>
 
 ---
+
+<!--
+  If you made it here, send me a 🐍 on LinkedIn so I know you read everything 😉
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
