@@ -91,6 +91,22 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
+### 📊 GitHub Insights
+
+![Followers](https://img.shields.io/github/followers/danicvan?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/danicvan/auto-care-landing?style=social)
+![Repo Views](https://komarev.com/ghpvc/?username=danicvan&style=flat-square&color=blue)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danicvan/danicvan/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 🐍 Testimonials
 
 > “Daniel turns legacy code into functional art.” — Former Teammate  
