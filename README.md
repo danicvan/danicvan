@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Spring+Boot+%7C+Python+%7C+FastAPI;ERP+Integrations+%7C+CI%2FCD+%7C+Fluig+%7C+SAP" alt="Tech Stack Badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Spring+Boot+%7C+Python+%7C+FastAPI;ERP+Integrations+%7C+CI%2FCD+%7C+Fluig+%7C+SAP&color=36BCF7&background=0D111700" alt="Tech Stack Badge" />
 </p>
 
 ---
