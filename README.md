@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/banner.png" width="100%"/>
+</p>
+
 <h1 align="center">Hey, I'm Daniel Camilo 👋</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danicvan/portfolio-site/main/assets/coding-night.gif" width="500"/>
+</p>
 
 <p align="center">
   💻 Senior Software Engineer • ERP Integrations • Full-Stack Automation <br/>
@@ -11,10 +19,12 @@
 
 I'm a senior developer with **6+ years** of experience building custom ERP solutions, automating workflows, and creating full-stack systems that simplify complex operations.
 
-- 🛠️ Integrated SAP, Protheus & Fluig via REST/SOAP/AdvPL
-- 💡 Reduced developer effort by **90%** and billing delays by **50%**
-- 📱 Refactored mobile systems with 100% user satisfaction
-- 💳 Built a car **Auto Service platform** with **Stripe payments** & admin dashboard
+> 🧠 *Transformando ideias em sistemas eficientes. Um deploy por vez.*
+
+- 🛠️ Integrated SAP, Protheus & Fluig via REST/SOAP/AdvPL  
+- 💡 Reduced developer effort by **90%** and billing delays by **50%**  
+- 📱 Refactored mobile systems with 100% user satisfaction  
+- 💳 Built a car **Auto Service platform** with **Stripe payments** & admin dashboard  
 
 ---
 
