@@ -56,19 +56,19 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 <p align="center">
   <a href="https://github.com/danicvan/auto-care-landing">
-    <img src="https://img.shields.io/badge/Auto--Care-Full--Stack-blue?style=for-the-badge&logo=vercel" alt="Auto Care">
+    <img src="https://img.shields.io/badge/Auto--Care-Full--Stack-blue?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://github.com/danicvan/ai-travel-planner">
-    <img src="https://img.shields.io/badge/AI--Travel--Planner-Next.js-green?style=for-the-badge&logo=openai" alt="AI Travel Planner">
+    <img src="https://img.shields.io/badge/AI--Travel--Planner-Next.js-green?style=for-the-badge&logo=openai" />
   </a>
   <a href="https://github.com/danicvan/proxy-reverse-load-balancer">
-    <img src="https://img.shields.io/badge/Proxy--Balancer-Node.js-yellow?style=for-the-badge&logo=node.js" alt="Proxy Balancer">
+    <img src="https://img.shields.io/badge/Proxy--Balancer-Node.js-yellow?style=for-the-badge&logo=node.js" />
   </a>
   <a href="https://github.com/danicvan/statistic-map-dashboard">
-    <img src="https://img.shields.io/badge/Stats--Dashboard-React--Map-blueviolet?style=for-the-badge&logo=react" alt="Map Dashboard">
+    <img src="https://img.shields.io/badge/Stats--Dashboard-React--Map-blueviolet?style=for-the-badge&logo=react" />
   </a>
   <a href="https://github.com/danicvan/fluig-api-template">
-    <img src="https://img.shields.io/badge/Fluig--API--Template-Java--Spring-brightgreen?style=for-the-badge&logo=spring" alt="Fluig API">
+    <img src="https://img.shields.io/badge/Fluig--API--Template-Java--Spring-brightgreen?style=for-the-badge&logo=spring" />
   </a>
 </p>
 
@@ -99,6 +99,12 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
+### ⏱️ Coding Time (WakaTime)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danicvan&theme=radical&hide_border=true)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -116,20 +122,42 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
+### 🌇 GitHub Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/skyline.gif" width="500"/>
+</p>
+
+---
+
+### 📎 Fun Facts
+
+![Quote](https://img.shields.io/badge/dev_quote-Clean_code_is_culture-blueviolet?style=flat-square&logo=github)
+
+<details>
+  <summary>🤯 Fun Dev Facts</summary>
+
+  - The first computer bug was a real moth 🦋  
+  - Daniel once refactored a 1000-line Fluig process in one sitting ☕  
+  - Most productive between 00:00–03:00 🌙
+</details>
+
+---
+
 ### 🌱 Currently Learning
 
-- 🧠 AI + Automation for ERP
-- 🛡️ Clean architecture & microservices
-- 🌍 Scaling my career globally
+- 🧠 AI + Automation for ERP  
+- 🛡️ Clean architecture & microservices  
+- 🌍 Scaling my career globally  
 
 ---
 
 ### 🤝 How I Can Help
 
-- 🔗 Seamless integrations between ERP systems (TOTVS, SAP, Fluig)
-- ⚙️ Process automation and workflow orchestration via APIs
-- 🧠 Solution architecture and scalability consultancy
-- 💡 Product development focused on performance
+- 🔗 ERP integrations (TOTVS, SAP, Fluig)  
+- ⚙️ Process automation and API orchestration  
+- 🧠 Solution architecture  
+- 💡 Product development and performance optimization  
 
 ---
 
@@ -152,11 +180,7 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danicvan&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -164,19 +188,14 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 <details>
   <summary>🎧 When I'm not coding...</summary>
 
-  - 🎮 Retro gaming & pixel art aesthetics
-  - 🎸 Guitar jam sessions in downtime
-  - 🍲 Foodie — love Brazilian dishes
-  - 🌌 Stargazing & cosmic curiosity
-  - ✈️ Dreaming of coding while traveling
-
+  - 🎮 Retro gaming & pixel art aesthetics  
+  - 🎸 Guitar jam sessions  
+  - 🍲 Brazilian food lover  
+  - 🌌 Stargazing  
+  - ✈️ Dreaming of remote coding trips  
 </details>
 
 ---
-
-<!--
-  If you made it here, send me a 🐍 on LinkedIn so I know you read everything 😉
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
