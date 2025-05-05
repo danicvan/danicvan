@@ -122,14 +122,6 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
-### 🌇 GitHub Skyline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/skyline.gif" width="500"/>
-</p>
-
----
-
 ### 📎 Fun Facts
 
 ![Quote](https://img.shields.io/badge/dev_quote-Clean_code_is_culture-blueviolet?style=flat-square&logo=github)
