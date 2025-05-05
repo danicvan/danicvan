@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danicvan/portfolio-site/main/coding-night-80.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/danicvan/portfolio-site/main/coding-night.gif" width="500"/>
 </p>
 
 <h1 align="center">Hey, I'm Daniel Camilo 👋</h1>
