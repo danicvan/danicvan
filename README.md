@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Daniel Camilo 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danicvan/portfolio-site/main/assets/coding-night.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/danicvan/portfolio-site/main/coding-night.gif" width="500"/>
 </p>
 
 <p align="center">
