@@ -28,6 +28,8 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=👨‍💻+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;🔧+Spring+Boot+%7C+FastAPI+%7C+Python+%7C+Java;🛠️+ERP+Integrations+(TOTVS%2FSAP)%2C+REST%2FSOAP%2C+CI%2FCD" alt="Tech Stack Badge" />
 </p>
 
+---
+
 ### 🧰 Tech Toolbox
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -70,9 +72,9 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ### 🌱 Currently Learning
 
-- 🧠 AI + Automation for ERP
-- 🛡️ Clean architecture & microservices
-- 🌍 Scaling my career with global opportunities
+- 🧠 AI + Automation for ERP  
+- 🛡️ Clean architecture & microservices  
+- 🌍 Scaling my career with global opportunities  
 
 ---
 
