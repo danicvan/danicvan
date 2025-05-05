@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Spring+Boot+%7C+Python+%7C+FastAPI;ERP+Integrations+%7C+CI%2FCD+%7C+Fluig+%7C+SAP" alt="Tech Stack Badge" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/coding-night-pixel.gif" width="500"/>
 </p>
 
@@ -21,12 +27,6 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 - 💡 Reduced developer effort by **90%** and billing delays by **50%**  
 - 📱 Refactored mobile systems with 100% user satisfaction  
 - 💳 Built a car **Auto Service platform** with **Stripe payments** & admin dashboard  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Spring+Boot+%7C+Python+%7C+FastAPI;ERP+Integrations+%7C+CI%2FCD+%7C+Fluig+%7C+SAP" alt="Tech Stack Badge" />
-</p>
 
 ---
 
