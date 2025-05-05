@@ -87,3 +87,77 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/danicvan/auto-care-landing">
+    <img src="https://img.shields.io/badge/Auto--Care-Full--Stack-blue?style=for-the-badge&logo=vercel" alt="Auto Care">
+  </a>
+  <a href="https://github.com/danicvan/ai-travel-planner">
+    <img src="https://img.shields.io/badge/AI--Travel--Planner-Next.js-green?style=for-the-badge&logo=openai" alt="AI Travel Planner">
+  </a>
+  <a href="https://github.com/danicvan/proxy-reverse-load-balancer">
+    <img src="https://img.shields.io/badge/Proxy--Balancer-Node.js-yellow?style=for-the-badge&logo=node.js" alt="Proxy Balancer">
+  </a>
+  <a href="https://github.com/danicvan/statistic-map-dashboard">
+    <img src="https://img.shields.io/badge/Stats--Dashboard-React--Map-blueviolet?style=for-the-badge&logo=react" alt="Map Dashboard">
+  </a>
+  <a href="https://github.com/danicvan/fluig-api-template">
+    <img src="https://img.shields.io/badge/Fluig--API--Template-Java--Spring-brightgreen?style=for-the-badge&logo=spring" alt="Fluig API">
+  </a>
+</p>
+
+---
+
+### ⚙️ Project Workflows
+
+![CI Status](https://github.com/danicvan/auto-care-landing/actions/workflows/deploy.yml/badge.svg)
+
+---
+
+### 🧠 Technical Docs (em breve)
+
+Estou criando uma wiki com artigos técnicos que explicam:
+
+- Integrações complexas com TOTVS/SAP
+- Como usar automação CI/CD com Fluig
+- Como criar um dashboard com mapas interativos
+- E mais...
+
+📁 A pasta `/docs` em breve estará ativa.
+
+---
+
+### 🌐 danielcamilo.dev (coming soon?)
+
+🔹 Você pode registrar um domínio com esse nome e apontar para seu GitHub Pages ou portfólio Vercel.  
+🔹 Isso reforça seu branding como dev sênior global.  
+🔹 Posso te ajudar a configurar com DNS + SSL quando quiser.
+
+---
+
+### 🔮 Widgets & Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danicvan&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<details>
+  <summary>🎧 Quando não estou programando...</summary>
+
+  - 🎮 Curto jogos retrô estilo Doom e RPG tático  
+  - 🎸 Apaixonado por música e toco nas horas vagas  
+  - 🥘 Amante da boa comida — especialmente culinária brasileira  
+  - 🌌 Fascinado por astronomia e o desconhecido  
+  - 🧳 Sonho em trabalhar remoto viajando pelo mundo  
+
+</details>
