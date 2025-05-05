@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=TypeScript+%7C+React+%7C+Next.js;Spring+Boot+%7C+Python+%7C+FastAPI;TOTVS+%7C+REST+APIs+%7C+ERP+Automation" alt="Tech Stack Badge" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/coding-night-pixel.gif" width="500"/>
 </p>
 
@@ -28,65 +24,21 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
-### 🧰 Tech Toolbox
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![TOTVS](https://img.shields.io/badge/TOTVS-Protheus%2FFluig-blue)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-### 🚀 Featured Projects
-
-- 🔧 **Auto Service Platform**  
-  Full-stack app for car service scheduling and payments with Stripe.  
-  _Stack: Next.js, Node.js, MongoDB, Stripe API, React Admin_
-
-- 🔄 **ERP Integrations (SAP ↔ TOTVS)**  
-  Automated tax, billing, CNAB files, and NF-e workflows using AdvPL + REST + Excel scripting.
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Spring+Boot+%7C+Python+%7C+FastAPI;ERP+Integrations+%7C+CI%2FCD+%7C+Fluig+%7C+SAP" alt="Tech Stack Badge" />
 </p>
 
 ---
 
-### 🌱 Currently Learning
+### ⚔️ My Dev Skills (RPG Mode)
 
-- 🧠 AI + Automation for ERP  
-- 🛡️ Clean architecture & microservices  
-- 🌍 Scaling my career with global opportunities  
+🗡️ Full-Stack Blade → React, Next.js, Node  
+🛡️ Back-End Tank → Java, Spring Boot, FastAPI  
+🎯 Sniper de Integrações → SAP, TOTVS, REST/SOAP  
+📦 Inventário: Docker, GitHub Actions, Jenkins  
+🎩 Magia: Automatizações em Fluig, CI/CD, AI
 
----
-
-### 📫 Let's Connect!
-
-- 📧 Email: danicvan@hotmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/daniel-camilo-evangelista)  
-- 💻 [GitHub Repositories](https://github.com/danicvan)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+> *"Coding is my battlefield. Clean code is my sword."*
 
 ---
 
@@ -112,34 +64,41 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
+### 🔬 Projects Table
+
+| Projeto                   | Tecnologias principais                   | Link |
+|--------------------------|------------------------------------------|------|
+| Auto Service Platform    | Next.js, Stripe, MongoDB, React Admin    | [Ver](https://github.com/danicvan/auto-care-landing) |
+| AI Travel Planner        | Next.js, GPT API, Maps API               | [Ver](https://github.com/danicvan/ai-travel-planner) |
+| ERP Proxy & Integrador   | Node.js, Protheus, REST & SOAP           | [Ver](https://github.com/danicvan/proxy-reverse-load-balancer) |
+| Fluig API Template       | Java, Spring Boot, Fluig API             | [Ver](https://github.com/danicvan/fluig-api-template) |
+
+---
+
 ### ⚙️ Project Workflows
 
 ![CI Status](https://github.com/danicvan/auto-care-landing/actions/workflows/deploy.yml/badge.svg)
 
 ---
 
-### 🧠 Technical Docs (em breve)
+### 📊 GitHub Stats
 
-Estou criando uma wiki com artigos técnicos que explicam:
-
-- Integrações complexas com TOTVS/SAP
-- Como usar automação CI/CD com Fluig
-- Como criar um dashboard com mapas interativos
-- E mais...
-
-📁 A pasta `/docs` em breve estará ativa.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-### 🌐 danielcamilo.dev (coming soon?)
+### 🌍 danielcamilo.dev (coming soon?)
 
-🔹 Você pode registrar um domínio com esse nome e apontar para seu GitHub Pages ou portfólio Vercel.  
-🔹 Isso reforça seu branding como dev sênior global.  
-🔹 Posso te ajudar a configurar com DNS + SSL quando quiser.
+🔹 Domínio ideal para um portfólio Vercel ou GitHub Pages  
+🔹 Branding forte e único para recrutadores internacionais  
+🔹 Posso te ajudar a configurar isso com SSL e DNS quando quiser
 
 ---
 
-### 🔮 Widgets & Stats
+### 🔮 Widgets & Activity
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danicvan&style=flat-square&color=blue" alt="Profile Views"/>
@@ -161,3 +120,9 @@ Estou criando uma wiki com artigos técnicos que explicam:
   - 🧳 Sonho em trabalhar remoto viajando pelo mundo  
 
 </details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
