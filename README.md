@@ -12,7 +12,7 @@
 
 <p align="center">
   💻 Senior Software Engineer • ERP Integrations • Full-Stack Automation <br/>
-  📍 São Paulo, Brazil &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/daniel-camilo-evangelista">LinkedIn</a> | <a href="mailto:danicvan@hotmail.com">Email</a>
+  📍 São Paulo, Brazil &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/daniel-camilo-evangelista">LinkedIn</a> | <a href="mailto:danicvan@hotmail.com">Email</a> | <a href="https://medium.com/@daniel.camilo.evangelista">Medium Blog</a>
 </p>
 
 ---
