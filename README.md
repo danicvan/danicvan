@@ -12,7 +12,7 @@
 
 <p align="center">
   💻 Senior Software Engineer • ERP Integrations • Full-Stack Automation <br/>
-  📍 São Paulo, Brazil &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/daniel-camilo-evangelista">LinkedIn</a> | <a href="mailto:danicvan@hotmail.com">Email</a> | <a href="https://medium.com/@daniel.camilo.evangelista">Medium Blog</a>
+  📍 São Paulo, Brazil &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/daniel-camilo-evangelista">LinkedIn</a> | <a href="mailto:danicvan@hotmail.com">Email</a>
 </p>
 
 ---
@@ -89,6 +89,13 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 - 🚀 2020: Migrated to full-stack with React & Node  
 - 💼 2023: CI/CD and process automation  
 - 🌎 2025: Targeting global, remote-first positions
+
+---
+
+### ✍️ Blog on Medium
+
+📚 I share technical insights, dev journeys, and reflections on programming.  
+Check out my articles on [**Medium**](https://medium.com/@daniel.camilo.evangelista).
 
 ---
 
