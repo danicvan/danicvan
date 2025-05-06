@@ -30,6 +30,45 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 
 ---
 
+### 💼 Tech Stack
+
+#### 💻 **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+#### 🔙 **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+#### 🧩 **Frameworks & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+#### 🗄️ **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+#### 🧠 **ERP & Automation**
+![TOTVS](https://img.shields.io/badge/TOTVS-Protheus%2FFluig-blue)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
+![AdvPL](https://img.shields.io/badge/AdvPL-333333?logo=totvs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-E6E6E6?logo=protocols&logoColor=black)
+
+---
+
 ### ⚔️ Dev Skills (RPG Mode)
 
 🗡️ Full-Stack Blade → React, Next.js, Node  
