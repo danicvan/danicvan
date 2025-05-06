@@ -60,7 +60,7 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-#### 🧠 **ERP / Business / APIs and Protocols**
+#### 🧠 **ERP / Business / APIs & Protocols**
 ![TOTVS](https://img.shields.io/badge/TOTVS-Protheus%2FFluig-blue)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 ![AdvPL](https://img.shields.io/badge/AdvPL-333333?logo=totvs&logoColor=white)
