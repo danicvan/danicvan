@@ -56,16 +56,17 @@ I'm a senior developer with **6+ years** of experience building custom ERP solut
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 #### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-#### 🧠 **ERP & Automation**
+#### 🧠 **ERP / Business / APIs and Protocols**
 ![TOTVS](https://img.shields.io/badge/TOTVS-Protheus%2FFluig-blue)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 ![AdvPL](https://img.shields.io/badge/AdvPL-333333?logo=totvs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-E6E6E6?logo=protocols&logoColor=black)
+![JDBC](https://img.shields.io/badge/JDBC-Java_DB-green)
 
 ---
 
