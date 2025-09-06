@@ -1,13 +1,13 @@
 <p align="center">
-  <!-- Wave header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=140&section=header&text=Daniel%20Camilo&fontSize=38&fontAlignY=30&desc=Senior%20Software%20Engineer%20•%20ERP%20Integrations%20•%20Full-Stack&descAlignY=55&animation=twinkling"/>
+  <!-- Arcade Neon Pixel Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=140&section=header&text=Daniel%20Camilo&fontSize=28&fontAlignY=30&fontColor=FFFFFF&desc=Press%20Start%20to%20Code&descAlignY=60&animation=twinkling&fontAlign=50&fontFamily=Press%20Start%202P" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer;ERP+Integrations%20%7C%20Full-Stack%20Automation&color=36BCF7&background=0D111700" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer;ERP+Integrations%20%7C%20Full-Stack%20Automation&color=0D1117&background=FFFFFF00" />
-    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer;ERP+Integrations%20%7C%20Full-Stack%20Automation&color=36BCF7&background=0D111700" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer;ERP+Integrations%20%7C%20Full-Stack%20Automation&color=36BCF7&background=0D111700" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer;ERP+Integrations%20%7C%20Full-Stack%20Automation&color=0D1117&background=FFFFFF00" />
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer;ERP+Integrations%20%7C%20Full-Stack%20Automation&color=36BCF7&background=0D111700" />
   </picture>
 </p>
 
@@ -15,16 +15,14 @@
   <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/coding-night-pixel.gif" width="520" />
 </p>
 
-<h1 align="center">Hi, I'm Daniel Camilo 👋</h1>
+<h1 align="center">Player 1: Daniel Camilo 👾</h1>
 
 <p align="center">
   💻 Senior Software Engineer • ERP Integrations • Full-Stack Automation <br/>
   📍 São Paulo, Brazil &nbsp;|&nbsp; 🌐 <a href="https://linkedin.com/in/daniel-camilo-evangelista">LinkedIn</a> · <a href="mailto:danicvan@hotmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-_-" width="0" height="8"/>
-</p>
+---
 
 ## 🚀 Elevator Pitch
 I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP integrations (TOTVS, SAP, Fluig)**, building **scalable full-stack systems** and **automating workflows** that simplify enterprise operations.
@@ -37,17 +35,17 @@ I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP in
 <p align="center">
   <table>
     <tr>
-      <td align="center"><h3>90%</h3><sub>Dev effort reduction</sub></td>
-      <td align="center"><h3>50%</h3><sub>Billing delay reduction</sub></td>
-      <td align="center"><h3>400+</h3><sub>Companies integrated</sub></td>
-      <td align="center"><h3>900+</h3><sub>Enterprise deliveries</sub></td>
+      <td align="center"><h3>⚡ 90%</h3><sub>Dev effort reduction</sub></td>
+      <td align="center"><h3>⏱️ 50%</h3><sub>Billing delay reduction</sub></td>
+      <td align="center"><h3>🏢 400+</h3><sub>Companies integrated</sub></td>
+      <td align="center"><h3>🚀 900+</h3><sub>Enterprise deliveries</sub></td>
     </tr>
   </table>
 </p>
 
 ---
 
-## 🧰 Tech Stack (icons only)
+## 🕹️ Tech Stack
 <p align="center">
   <!-- row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46"/>
@@ -77,7 +75,7 @@ I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP in
 
 ---
 
-## 🧩 Featured Projects
+## 🎯 Featured Projects
 | Project | Stack | Description | Link |
 |---|---|---|---|
 | **Auto Service Platform** | Next.js, Stripe, MongoDB, React Admin | Car service booking with payments + dashboard | [View](https://github.com/danicvan/auto-care-landing) |
@@ -142,12 +140,12 @@ I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP in
 
 ---
 
-## 🔍 Contact
+## 🎮 Contact
 - Email: **danicvan@hotmail.com**  
 - LinkedIn: <a href="https://linkedin.com/in/daniel-camilo-evangelista">daniel-camilo-evangelista</a>  
 - GitHub: <a href="https://github.com/danicvan">danicvan</a>
 
 <p align="center">
-  <!-- Wave footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=120&section=footer"/>
+  <!-- Arcade Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>
 </p>
