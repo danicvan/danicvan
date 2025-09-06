@@ -6,6 +6,8 @@
   </picture>
 </p>
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/danicvan/danicvan/main/coding-night-pixel.gif" width="520" />
 </p>
@@ -20,6 +22,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-_-" width="0" height="8"/>
 </p>
+
+---
 
 ## 🚀 Elevator Pitch
 I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP integrations (TOTVS, SAP, Fluig)**, building **scalable full-stack systems** and **automating workflows** that simplify enterprise operations.
@@ -141,3 +145,5 @@ I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP in
 - Email: **danicvan@hotmail.com**  
 - LinkedIn: <a href="https://linkedin.com/in/daniel-camilo-evangelista">daniel-camilo-evangelista</a>  
 - GitHub: <a href="https://github.com/danicvan">danicvan</a>
+
+---
