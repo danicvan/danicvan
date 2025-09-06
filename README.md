@@ -34,17 +34,17 @@ I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP in
 <p align="center">
   <table>
     <tr>
-      <td align="center"><h3>90%</h3><sub>Dev effort reduction</sub></td>
-      <td align="center"><h3>50%</h3><sub>Billing delay reduction</sub></td>
-      <td align="center"><h3>400+</h3><sub>Companies integrated</sub></td>
-      <td align="center"><h3>900+</h3><sub>Enterprise deliveries</sub></td>
+      <td align="center"><h3>⚡ 90%</h3><sub>Dev effort reduction</sub></td>
+      <td align="center"><h3>⏱️ 50%</h3><sub>Billing delay reduction</sub></td>
+      <td align="center"><h3>🏢 400+</h3><sub>Companies integrated</sub></td>
+      <td align="center"><h3>🚀 900+</h3><sub>Enterprise deliveries</sub></td>
     </tr>
   </table>
 </p>
 
 ---
 
-## 🧰 Tech Stack (icons only)
+## 🧰 Tech Stack
 <p align="center">
   <!-- row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46"/>
