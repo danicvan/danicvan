@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;ERP+Integrations+%7C+Full+Stack+Automation&color=36BCF7&background=0D111700" alt="Tech Stack Badge" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;ERP+Integrations+%7C+Full+Stack+Automation&color=36BCF7&background=0D111700" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;ERP+Integrations+%7C+Full+Stack+Automation&color=0D1117&background=FFFFFF00" />
+    <img alt="Tech Stack Badge" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;ERP+Integrations+%7C+Full+Stack+Automation&color=36BCF7&background=0D111700" />
+  </picture>
 </p>
 
 ---
@@ -39,7 +43,7 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 ### 💼 Tech Stack
 
 <p align="center">
-  <!-- First Row -->
+  <!-- Row 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
@@ -51,7 +55,7 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 </p>
 
 <p align="center">
-  <!-- Second Row -->
+  <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
@@ -113,12 +117,24 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=default&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=default&hide_border=true" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danicvan&theme=radical&hide_border=true" width="60%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danicvan&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=danicvan&theme=default&hide_border=true" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=danicvan&theme=radical&hide_border=true" width="60%"/>
+  </picture>
 </p>
 
 ---
@@ -126,7 +142,11 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 ### 🗺️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" />
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" />
+  </picture>
 </p>
 
 ---
@@ -134,6 +154,7 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 ### 🐍 Contribution Snake
 
 <p align="center">
+  <!-- Se você gerar uma versão dark no seu workflow, pode usar um <picture> aqui também -->
   <img src="https://raw.githubusercontent.com/danicvan/danicvan/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
