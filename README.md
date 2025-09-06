@@ -76,6 +76,22 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 </p>
 
 <p align="center">
+  <!-- Core Skills Badges -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<p align="center">
   <b>JavaScript | TypeScript | React | Next.js | Node.js | Java | Spring Boot | Python | FastAPI |  
   Docker | Jenkins | Linux | Postman | Insomnia | MySQL | PostgreSQL | SQL Server |  
   TOTVS Protheus/Fluig | SAP | AdvPL | REST | SOAP | JDBC</b>
