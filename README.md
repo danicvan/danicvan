@@ -52,10 +52,6 @@ building **scalable full-stack systems**, and **automating workflows** that simp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
@@ -68,6 +64,15 @@ building **scalable full-stack systems**, and **automating workflows** that simp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TOTVS-Protheus%2FFluig-blue" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdvPL-333333?logo=totvs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP-E6E6E6?logo=protocols&logoColor=black" />
+  <img src="https://img.shields.io/badge/JDBC-Java_DB-green" />
 </p>
 
 ---
