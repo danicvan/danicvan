@@ -38,43 +38,33 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 
 ### 💼 Tech Stack
 
-#### 💻 Frontend  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="45"/>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
 </p>
 
-#### 🔙 Backend  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-</p>
-
-#### 🧩 Frameworks & Tools  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="50"/>
-</p>
-
-#### 🗄️ Databases  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-</p>
-
-#### 🧠 ERP / Business / APIs & Protocols  
 <p align="center">
   <img src="https://img.shields.io/badge/TOTVS-Protheus%2FFluig-blue" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
@@ -84,30 +74,74 @@ building **scalable full-stack systems**, and **automating workflows** that simp
   <img src="https://img.shields.io/badge/JDBC-Java_DB-green" />
 </p>
 
+<p align="center">
+  <b>JavaScript | TypeScript | React | Next.js | Node.js | Java | Spring Boot | Python | FastAPI |  
+  Docker | Jenkins | Linux | Postman | Insomnia | MySQL | PostgreSQL | SQL Server |  
+  TOTVS Protheus/Fluig | SAP | AdvPL | REST | SOAP | JDBC</b>
+</p>
+
 ---
 
 ### 📌 Featured Projects
-*(mantém igual ao que você já fez)*
+
+| Project                | Stack                              | Description | Link |
+|------------------------|------------------------------------|-------------|------|
+| **Auto Service Platform** | Next.js, Stripe, MongoDB, React Admin | Car service booking with payments + dashboard | [View](https://github.com/danicvan/auto-care-landing) |
+| **AI Travel Planner** | Next.js, GPT API, Google Maps | AI-powered trip planner with map integration | [View](https://github.com/danicvan/ai-travel-planner) |
+| **ERP Proxy & Gateway** | Node.js, Protheus, REST/SOAP | Unified ERP proxy for integrations | [View](https://github.com/danicvan/proxy-reverse-load-balancer) |
+| **Fluig API Template** | Java, Spring Boot, Fluig API | Base template for Fluig automation APIs | [View](https://github.com/danicvan/fluig-api-template) |
 
 ---
 
 ### 📊 GitHub & Coding Stats
-*(mantém igual + Contribution Graph e Snake já inseridos)*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danicvan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicvan&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danicvan&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+---
+
+### 🗺️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danicvan&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danicvan/danicvan/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
 
 ---
 
 ### 🌱 Currently Learning
-*(idem)*
+
+- 🧠 AI + Automation for ERP  
+- 🛡️ Clean architecture & microservices  
+- 🌍 Scaling my career globally  
 
 ---
 
 ### 💬 Testimonials
-*(idem)*
+
+> *“Daniel is a reference in ERP integrations and automation. Always delivers beyond expectations.”*  
+— CTO, BOA Digital  
 
 ---
 
 ### 🔍 Contact Me
-*(idem)*
+
+- 📧 Email: **danicvan@hotmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-camilo-evangelista)  
+- 💻 [GitHub](https://github.com/danicvan)  
 
 ---
 
