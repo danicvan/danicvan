@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/-_-" width="0" height="8"/>
 </p>
 
----
-
 ## 🚀 Elevator Pitch
 I’m a **Senior Software Engineer (6+ years)** with deep experience in **ERP integrations (TOTVS, SAP, Fluig)**, building **scalable full-stack systems** and **automating workflows** that simplify enterprise operations.
 
