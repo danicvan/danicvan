@@ -95,12 +95,6 @@ building **scalable full-stack systems**, and **automating workflows** that simp
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>JavaScript | TypeScript | React | Next.js | Node.js | Java | Spring Boot | Python | FastAPI |  
-  Docker | Jenkins | Linux | Postman | Insomnia | MySQL | PostgreSQL | SQL Server |  
-  TOTVS Protheus/Fluig | SAP | AdvPL | REST | SOAP | JDBC</b>
-</p>
-
 ---
 
 ### 📌 Featured Projects
@@ -154,7 +148,6 @@ building **scalable full-stack systems**, and **automating workflows** that simp
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <!-- Se você gerar uma versão dark no seu workflow, pode usar um <picture> aqui também -->
   <img src="https://raw.githubusercontent.com/danicvan/danicvan/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
